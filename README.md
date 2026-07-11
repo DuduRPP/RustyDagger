@@ -1,1 +1,1 @@
-"# RustyDagger" 
+# RustyDagger
